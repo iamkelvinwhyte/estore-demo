@@ -1,6 +1,6 @@
 class eStore():
     """
-    EStore Class Helper to View Product, Add item to basket, View Backet,Empty Backet,Add Discount Offer, View Offer
+    EStore Class Helper to View Product, Add item to basket, View Basket,Empty Basket,Add Discount Offer, View Offer
     Empty Offer and Display Pricing .
     """
 
