@@ -4,7 +4,7 @@ The test project won't be used in any real environment.
 
 ## Initial Project setup
 
-    git clone https://github.com/xsaysoft/bookingengine.git
+    git clone https://github.com/iamkelvinwhyte/estore-demo.git
     python -m venv venv
     pip install -r requirements.txt
     python main.py 
